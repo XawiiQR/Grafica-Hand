@@ -67,16 +67,47 @@ Esta clase ejecuta el procesamiento de gestos de la mano, además de proporciona
 
 `Handy.py`
 
-### Videos de Ejemplo
+## Videos de Ejemplo
 
 Para ver ejemplos de cómo se ejecuta el proyecto y los gestos que identifica, consulta los siguientes videos:
 
-- [Video 1: Identificación de "Piedra"](link_al_video)
-- [Video 2: Identificación de "Like"](link_al_video)
-- [Video 3: Identificación de "Tijera"](link_al_video)
-- [Video 4: Identificación de "OK"](link_al_video)
-- [Video 5: Identificación de "Saludo"](link_al_video)
-- [Video 6: Identificación de "Stop"](link_al_video)
+### Piedra
+<video width="320" height="240" controls>
+  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/piedra.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### Like
+<video width="320" height="240" controls>
+  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/like.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### Tijera
+<video width="320" height="240" controls>
+  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/tijera.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### OK
+<video width="320" height="240" controls>
+  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/ok.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### Saludo
+<video width="320" height="240" controls>
+  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/saludo.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### Stop
+<video width="320" height="240" controls>
+  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/stop.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+
 
 ## Contribuciones
 
