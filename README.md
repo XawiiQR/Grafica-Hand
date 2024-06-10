@@ -47,53 +47,25 @@ if __name__ == "__main__":
 
 Esta clase se encarga de detectar los gestos de la mano en base a la cantidad de dedos visibles. Utiliza OpenCV para procesar cuadros de video y aplicar filtros de color HSV, encontrar contornos y reconocer los gestos.
 
-```python
-import cv2
-import numpy as np
-
-class HandDetector:
-    # Código proporcionado anteriormente
-```
+`HandDetector.py`
 
 ### JMFCapture
 
 Esta clase se encarga de capturar video en tiempo real desde la cámara utilizando OpenCV.
 
-```python
-import cv2
-
-class JMFCapture:
-    # Código proporcionado anteriormente
-```
+`JMFCapture.py`
 
 ### HandPanel
 
 Esta clase utiliza `HandDetector` y `JMFCapture` para procesar y mostrar gestos de la mano en tiempo real.
 
-```python
-import cv2
-from HandDetector import HandDetector
-from JMFCapture import JMFCapture
-
-class HandPanel:
-    # Código proporcionado anteriormente
-```
+`HandPanel.py`
 
 ### Handy
 
 Esta clase ejecuta el procesamiento de gestos de la mano, además de proporcionar una interfaz para ajustar los valores HSV en tiempo real.
 
-```python
-import cv2
-from HandPanel import HandPanel
-from HandDetector import HandDetector
-
-def nothing(x):
-    pass
-
-class Handy:
-    # Código proporcionado anteriormente
-```
+`Handy.py`
 
 ### Videos de Ejemplo
 
