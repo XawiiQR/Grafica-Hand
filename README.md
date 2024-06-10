@@ -81,7 +81,7 @@ Para ver ejemplos de cómo se ejecuta el proyecto y los gestos que identifica, c
 ![Tijera](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/tijera.gif)
 
 ### OK
-![OK](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/ok.gif)
+![OK](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/OK.gif)
 
 ### Saludo
 ![Saludo](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/saludo.gif)
