@@ -69,26 +69,25 @@ Esta clase ejecuta el procesamiento de gestos de la mano, además de proporciona
 
 ## Videos de Ejemplo
 
-Para ver ejemplos de cómo se ejecuta el proyecto y los gestos que identifica, consulta los siguientes videos:
+Para ver ejemplos de cómo se ejecuta el proyecto y los gestos que identifica, consulta los siguientes GIFs:
 
 ### Piedra
-[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/piedra.mp4)
+![Piedra](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/piedra.gif)
 
 ### Like
-[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/like.mp4)
+![Like](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/like.gif)
 
 ### Tijera
-[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/tijera.mp4)
+![Tijera](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/tijera.gif)
 
 ### OK
-[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/ok.mp4)
+![OK](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/ok.gif)
 
 ### Saludo
-[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/saludo.mp4)
+![Saludo](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/saludo.gif)
 
 ### Stop
-[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/stop.mp4)
-
+![Stop](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/stop.gif)
 
 ## Contribuciones
 
