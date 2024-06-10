@@ -72,41 +72,22 @@ Esta clase ejecuta el procesamiento de gestos de la mano, además de proporciona
 Para ver ejemplos de cómo se ejecuta el proyecto y los gestos que identifica, consulta los siguientes videos:
 
 ### Piedra
-<video width="320" height="240" controls>
-  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/piedra.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/piedra.mp4)
 
 ### Like
-<video width="320" height="240" controls>
-  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/like.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/like.mp4)
 
 ### Tijera
-<video width="320" height="240" controls>
-  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/tijera.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/tijera.mp4)
 
 ### OK
-<video width="320" height="240" controls>
-  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/ok.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/ok.mp4)
 
 ### Saludo
-<video width="320" height="240" controls>
-  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/saludo.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/saludo.mp4)
 
 ### Stop
-<video width="320" height="240" controls>
-  <source src="https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/stop.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
-
+[![Ver video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://github.com/XawiiQR/Grafica-Hand/blob/main/VideoManos/stop.mp4)
 
 
 ## Contribuciones
